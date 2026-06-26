@@ -44,6 +44,14 @@ This study evaluates the following hypotheses:
 
 ---
 
+## Full Report
+
+A detailed report of the analysis can be found here:
+
+[📄 Understanding Shark-Human Interactions to Promote Conservation and Safer Oceans](./sharksmatter.pdf)
+
+---
+
 ## Technologies Used
 
 * Python

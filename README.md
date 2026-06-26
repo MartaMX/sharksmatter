@@ -1,6 +1,4 @@
-# sharksmatter
-
-# 🦈 Shark Attack Data Analysis for Conservation
+# 🦈 #sharksmatter: Understanding Shark-Human Interactions to Promote Conservation and Safer Oceans
 
 ## Overview
 

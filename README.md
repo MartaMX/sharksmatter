@@ -1,4 +1,4 @@
-# 🦈 #sharksmatter:
+# 🦈 #sharksmatter
 # Understanding Shark-Human Interactions to Promote Conservation and Safer Oceans
 
 ## Overview
